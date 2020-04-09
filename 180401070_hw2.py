@@ -1,5 +1,5 @@
 file = open(r"input_hw_2.csv", "r+")
-
+import sys
 ay = []
 frekans = []
 
